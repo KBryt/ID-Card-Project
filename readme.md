@@ -1,6 +1,6 @@
 # ID CARD TAMPERING APP FOR ORGANIZATIONS
 
-
+<p align="center"><img src="https://github.com/KBryt/ID-Card-Project/blob/master/sample_data/Student-ID-Card.png?raw=true" alt="Brain+Machine" height="218" width="350"></p>
 
 ## Step to run application:
 Step 1:	Create the copy of the project.
